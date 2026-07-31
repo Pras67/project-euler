@@ -26,7 +26,7 @@ project-euler/
 | # | Question Title | Solution | Language | Runtime |
 |---|---|---|---|---|
 | 001 | Multiples of 3 and 5 | [q001.py](./solutions/q001_multiples_of_3_and_5.py) | Python | <0.001s |
-| 002 | Even Fibonacci Numbers | [q002.py](./solutions/q002_even_fibonacci_numbers.py) | Python | Pending |
+| 002 | Even Fibonacci Numbers | [q002.py](./solutions/q002_even_fibonacci_numbers.py) | Python | <0.001s |
 | 003 | Largest Prime Factor | [q003.py](./solutions/q003_largest_prime_factor.py) | Python | Pending |
 
 ---
@@ -40,5 +40,5 @@ python solutions/q001_multiples_of_3_and_5.py
 
 ### Run Tests
 ```bash
-pytest tests/test_q001.py
+pytest tests/test_q002.py
 ```

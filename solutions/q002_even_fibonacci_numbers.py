@@ -13,9 +13,21 @@ find the sum of the even-valued terms.
 import time
 
 
-def solve() -> int:
-    # Your solution logic will go here
-    return 0
+def solve(upper_limit: int = 4_000_000) -> int:
+    even_fib_sum = 0
+
+    a = 1
+    b = 2
+
+    while b <= upper_limit:
+        if b % 2 == 0:
+            even_fib_sum += b
+
+        next_fib = a + b
+        a = b
+        b = next_fib
+
+    return even_fib_sum
 
 
 if __name__ == "__main__":
