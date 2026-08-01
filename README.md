@@ -25,9 +25,11 @@ project-euler/
 
 | # | Question Title | Solution | Language | Runtime |
 |---|---|---|---|---|
-| 001 | Multiples of 3 and 5 | [q001.py](./solutions/q001_multiples_of_3_and_5.py) | Python | <0.001s |
-| 002 | Even Fibonacci Numbers | [q002.py](./solutions/q002_even_fibonacci_numbers.py) | Python | <0.001s |
-| 003 | Largest Prime Factor | [q003.py](./solutions/q003_largest_prime_factor.py) | Python | <0.001s |
+| 001 | Multiples of 3 and 5 | [q001.py](./solutions/q001_multiples_of_3_and_5.py) | Python | 0.000064s |
+| 002 | Even Fibonacci Numbers | [q002.py](./solutions/q002_even_fibonacci_numbers.py) | Python | 0.000009s |
+| 003 | Largest Prime Factor | [q003.py](./solutions/q003_largest_prime_factor.py) | Python | 0.000073s |
+| 004 | Largest Palindrome Product | [q004.py](./solutions/q004_largest_palindrome_product.py) | Python | 0.001485s |
+| 005 | Smallest Multiple | [q005.py](./solutions/q005_smallest_multiple.py) | Python | Pending |
 
 ---
 
