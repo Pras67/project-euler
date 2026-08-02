@@ -30,6 +30,7 @@ project-euler/
 | 003 | Largest Prime Factor | [q003.py](./solutions/q003_largest_prime_factor.py) | Python | 0.000073s |
 | 004 | Largest Palindrome Product | [q004.py](./solutions/q004_largest_palindrome_product.py) | Python | 0.001485s |
 | 005 | Smallest Multiple | [q005.py](./solutions/q005_smallest_multiple.py) | Python | 0.000013s |
+| 006 | Sum Square Difference | [q006.py](./solutions/q006_sum_square_difference.py) | Python | 0.000018s (Normal Solution), 0.000008s (Optimised Solution) |
 
 ---
 
