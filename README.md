@@ -32,6 +32,7 @@ project-euler/
 | 005 | Smallest Multiple | [q005.py](./solutions/q005_smallest_multiple.py) | Python | 0.000013s |
 | 006 | Sum Square Difference | [q006.py](./solutions/q006_sum_square_difference.py) | Python | 0.000018s (Normal Solution), 0.000008s (Optimised Solution) |
 | 007 | 10001st Prime | [q007.py](./solutions/q007_10001st_prime.py) | Python | 0.053490s |
+| 008 | Largest Product in a Series | [q008.py](./solutions/q008_largest_product_in_a_series.py) | Python | 0.000942s |
 
 ---
 
