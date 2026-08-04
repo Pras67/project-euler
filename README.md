@@ -35,6 +35,7 @@ project-euler/
 | 008 | Largest Product in a Series | [q008.py](./solutions/q008_largest_product_in_a_series.py) | Python | 0.000942s |
 | 009 | Special Pythagorean Triplet | [q009.py](./solutions/q009_special_pythagorean_triplet.py) | Python | 0.019560s |
 | 010 | Summation of Primes | [q010.py](./solutions/q010_summation_of_primes.py) | Python | 0.223152s |
+| 011 | Largest Product in a Grid | [q011.py](./solutions/q011_largest_product_in_a_grid.py) | Python | 0.001146s |
 
 ---
 
