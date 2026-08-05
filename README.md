@@ -36,6 +36,7 @@ project-euler/
 | 009 | Special Pythagorean Triplet | [q009.py](./solutions/q009_special_pythagorean_triplet.py) | Python | 0.019560s |
 | 010 | Summation of Primes | [q010.py](./solutions/q010_summation_of_primes.py) | Python | 0.223152s |
 | 011 | Largest Product in a Grid | [q011.py](./solutions/q011_largest_product_in_a_grid.py) | Python | 0.001146s |
+| 012 | Highly Divisible Triangular Number | [q012.py](./solutions/q012_highly_divisible_triangular_number.py) | Python | 0.0.042931s |
 
 ---
 
