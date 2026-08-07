@@ -38,7 +38,8 @@ project-euler/
 | 011 | Largest Product in a Grid | [q011.py](./solutions/q011_largest_product_in_a_grid.py) | Python | 0.001146s |
 | 012 | Highly Divisible Triangular Number | [q012.py](./solutions/q012_highly_divisible_triangular_number.py) | Python | 0.044091s |
 | 013 | Large Sum | [q013.py](./solutions/q013_large_sum.py) | Python | 0.000039s |
-| 014 | Longest Collatz Sequence | [q014.py](./solutions/q014_longest_collatz_sequence.py) | Python | 0.555887s |
+| 014 | Longest Collatz Sequence | [q014.py](./solutions/q014_longest_collatz_sequence.py) | Python | 0.549759s |
+| 015 | Lattice Paths | [q015.py](./solutions/q015_lattice_paths.py) | Python | 0.000006s (Combinatorics), 0.000045s (Dynamic Programming) |
 
 ---
 
