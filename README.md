@@ -42,6 +42,7 @@ project-euler/
 | 015 | Lattice Paths | [q015.py](./solutions/q015_lattice_paths.py) | Python | 0.000006s (Combinatorics), 0.000045s (Dynamic Programming) |
 | 016 | Power Digit Sum | [q016.py](./solutions/q016_power_digit_sum.py) | Python | 0.000021s |
 | 017 | Number Letter Counts | [q017.py](./solutions/q017_number_letter_counts.py) | Python | 0.000422s |
+| 018 | Maximum Path Sum I | [q018.py](./solutions/q018_maximum_path_sum_i.py) | Python | 0.000030s |
 
 ---
 
