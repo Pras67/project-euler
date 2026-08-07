@@ -43,6 +43,7 @@ project-euler/
 | 016 | Power Digit Sum | [q016.py](./solutions/q016_power_digit_sum.py) | Python | 0.000021s |
 | 017 | Number Letter Counts | [q017.py](./solutions/q017_number_letter_counts.py) | Python | 0.000422s |
 | 018 | Maximum Path Sum I | [q018.py](./solutions/q018_maximum_path_sum_i.py) | Python | 0.000030s |
+| 019 | Counting Sundays | [q019.py](./solutions/q019_counting_sundays.py) | Python | 0.000101s |
 
 ---
 
