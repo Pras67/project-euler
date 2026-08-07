@@ -41,6 +41,7 @@ project-euler/
 | 014 | Longest Collatz Sequence | [q014.py](./solutions/q014_longest_collatz_sequence.py) | Python | 0.549759s |
 | 015 | Lattice Paths | [q015.py](./solutions/q015_lattice_paths.py) | Python | 0.000006s (Combinatorics), 0.000045s (Dynamic Programming) |
 | 016 | Power Digit Sum | [q016.py](./solutions/q016_power_digit_sum.py) | Python | 0.000021s |
+| 017 | Number Letter Counts | [q017.py](./solutions/q017_number_letter_counts.py) | Python | 0.000422s |
 
 ---
 
