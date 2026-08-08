@@ -47,6 +47,7 @@ project-euler/
 | 020 | Factorial Digit Sum | [q020.py](./solutions/q020_factorial_digit_sum.py) | Python | 0.000020s |
 | 021 | Amicable Numbers | [q021.py](./solutions/q021_amicable_numbers.py) | Python | 0.030430s |
 | 022 | Names Scores | [q022.py](./solutions/q022_names_scores.py) | Python | 0.005517s |
+| 023 | Non-Abundant Sums | [q023.py](./solutions/q023_non_abundant_sums.py) | Python | 0.632375s |
 
 ---
 
