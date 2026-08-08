@@ -45,6 +45,7 @@ project-euler/
 | 018 | Maximum Path Sum I | [q018.py](./solutions/q018_maximum_path_sum_i.py) | Python | 0.000030s |
 | 019 | Counting Sundays | [q019.py](./solutions/q019_counting_sundays.py) | Python | 0.000101s |
 | 020 | Factorial Digit Sum | [q020.py](./solutions/q020_factorial_digit_sum.py) | Python | 0.000020s |
+| 021 | Amicable Numbers | [q021.py](./solutions/q021_amicable_numbers.py) | Python | 0.030430s |
 
 ---
 
