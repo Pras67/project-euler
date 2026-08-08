@@ -11,5 +11,5 @@ def test_q022_colin_value():
 
 
 def test_q022_full():
-    # Total of all name scores in names.txt = 870818385
-    assert solve() == 870818385
+    # Total of all name scores in official names.txt = 871198282
+    assert solve() == 871198282

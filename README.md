@@ -46,7 +46,7 @@ project-euler/
 | 019 | Counting Sundays | [q019.py](./solutions/q019_counting_sundays.py) | Python | 0.000101s |
 | 020 | Factorial Digit Sum | [q020.py](./solutions/q020_factorial_digit_sum.py) | Python | 0.000020s |
 | 021 | Amicable Numbers | [q021.py](./solutions/q021_amicable_numbers.py) | Python | 0.030430s |
-| 022 | Names Scores | [q022.py](./solutions/q022_names_scores.py) | Python | 0.005692s |
+| 022 | Names Scores | [q022.py](./solutions/q022_names_scores.py) | Python | 0.005517s |
 
 ---
 
