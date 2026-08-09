@@ -51,7 +51,8 @@ project-euler/
 | 024 | Lexicographic Permutations | [q024.py](./solutions/q024_lexicographic_permutations.py) | Python | 0.000022s |
 | 025 | 1000-digit Fibonacci Number | [q025.py](./solutions/q025_1000_digit_fibonacci_number.py) | Python | 0.000500s |
 | 026 | Reciprocal Cycles | [q026.py](./solutions/q026_reciprocal_cycles.py) | Python | 0.000504s |
-| 027 | Quadratic Primes | [q027.py](./solutions/q027_quadratic_primes.py) | Python | 0.041093s |
+| 027 | Quadratic Primes | [q027.py](./solutions/q027_quadratic_primes.py) | Python | 0.040829s |
+| 028 | Number Spiral Diagonals | [q028.py](./solutions/q028_number_spiral_diagonals.py) | Python | 0.000044s |
 
 ---
 
