@@ -50,6 +50,7 @@ project-euler/
 | 023 | Non-Abundant Sums | [q023.py](./solutions/q023_non_abundant_sums.py) | Python | 0.632375s |
 | 024 | Lexicographic Permutations | [q024.py](./solutions/q024_lexicographic_permutations.py) | Python | 0.000022s |
 | 025 | 1000-digit Fibonacci Number | [q025.py](./solutions/q025_1000_digit_fibonacci_number.py) | Python | 0.000500s |
+| 026 | Reciprocal Cycles | [q026.py](./solutions/q026_reciprocal_cycles.py) | Python | 0.000504s |
 
 ---
 
