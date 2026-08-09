@@ -13,7 +13,7 @@ The sum of these numbers is 1634 + 8208 + 9474 = 19316.
 
 Find the sum of all the numbers that can be written as the sum of fifth powers of their digits.
 
-Measured Runtime: ~0.149000s
+Measured Runtime: ~0.140766s
 """
 
 import time
