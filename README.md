@@ -53,7 +53,8 @@ project-euler/
 | 026 | Reciprocal Cycles | [q026.py](./solutions/q026_reciprocal_cycles.py) | Python | 0.000504s |
 | 027 | Quadratic Primes | [q027.py](./solutions/q027_quadratic_primes.py) | Python | 0.040829s |
 | 028 | Number Spiral Diagonals | [q028.py](./solutions/q028_number_spiral_diagonals.py) | Python | 0.000044s |
-| 029 | Distinct Powers | [q029.py](./solutions/q029_distinct_powers.py) | Python | 0.003652s |
+| 029 | Distinct Powers | [q029.py](./solutions/q029_distinct_powers.py) | Python | 0.003502s |
+| 030 | Digit Fifth Powers | [q030.py](./solutions/q030_digit_fifth_powers.py) | Python | 0.145779s |
 
 ---
 
