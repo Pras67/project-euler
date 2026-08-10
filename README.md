@@ -56,6 +56,7 @@ project-euler/
 | 029 | Distinct Powers | [q029.py](./solutions/q029_distinct_powers.py) | Python | 0.003502s |
 | 030 | Digit Fifth Powers | [q030.py](./solutions/q030_digit_fifth_powers.py) | Python | 0.140766s |
 | 031 | Coin Sums | [q031.py](./solutions/q031_coin_sums.py) | Python | 0.000091s |
+| 032 | Pandigital Products | [q032.py](./solutions/q032_pandigital_products.py) | Python | 0.094754s |
 
 ---
 
