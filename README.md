@@ -55,6 +55,7 @@ project-euler/
 | 028 | Number Spiral Diagonals | [q028.py](./solutions/q028_number_spiral_diagonals.py) | Python | 0.000044s |
 | 029 | Distinct Powers | [q029.py](./solutions/q029_distinct_powers.py) | Python | 0.003502s |
 | 030 | Digit Fifth Powers | [q030.py](./solutions/q030_digit_fifth_powers.py) | Python | 0.140766s |
+| 031 | Coin Sums | [q031.py](./solutions/q031_coin_sums.py) | Python | 0.000091s |
 
 ---
 
