@@ -61,6 +61,7 @@ project-euler/
 | 034 | Digit Factorials | [q034.py](./solutions/q034_digit_factorials.py) | Python | 0.042260s |
 | 035 | Circular Primes | [q035.py](./solutions/q035_circular_primes.py) | Python | 0.108750s |
 | 036 | Double-base Palindromes | [q036.py](./solutions/q036_double_base_palindromes.py) | Python | 0.073717s |
+| 037 | Truncatable Primes | [q037.py](./solutions/q037_truncatable_primes.py) | Python | 0.075446s |
 
 ---
 
