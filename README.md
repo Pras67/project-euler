@@ -60,6 +60,7 @@ project-euler/
 | 033 | Digit Cancelling Fractions | [q033.py](./solutions/q033_digit_cancelling_fractions.py) | Python | 0.000658s |
 | 034 | Digit Factorials | [q034.py](./solutions/q034_digit_factorials.py) | Python | 0.042260s |
 | 035 | Circular Primes | [q035.py](./solutions/q035_circular_primes.py) | Python | 0.108750s |
+| 036 | Double-base Palindromes | [q036.py](./solutions/q036_double_base_palindromes.py) | Python | 0.073717s |
 
 ---
 
