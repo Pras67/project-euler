@@ -64,6 +64,8 @@ project-euler/
 | 037 | Truncatable Primes | [q037.py](./solutions/q037_truncatable_primes.py) | Python | 0.075446s |
 | 038 | Pandigital Multiples | [q038.py](./solutions/q038_pandigital_multiples.py) | Python | 0.013465s |
 | 039 | Integer Right Triangles | [q039.py](./solutions/q039_integer_right_triangles.py) | Python | 0.010244s |
+| 040 | Champernowne's Constant | [q040.py](./solutions/q040_champernowne_constant.py) | Python | 0.067487s |
+
 
 
 

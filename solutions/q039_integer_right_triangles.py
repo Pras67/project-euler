@@ -9,7 +9,7 @@ there are exactly three solutions for p = 120:
 
 For which value of p <= 1000, is the number of solutions maximized?
 
-Measured Runtime: ~0.007000s
+Measured Runtime: ~0.010000s
 """
 
 import time
