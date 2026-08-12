@@ -63,6 +63,9 @@ project-euler/
 | 036 | Double-base Palindromes | [q036.py](./solutions/q036_double_base_palindromes.py) | Python | 0.073717s |
 | 037 | Truncatable Primes | [q037.py](./solutions/q037_truncatable_primes.py) | Python | 0.075446s |
 | 038 | Pandigital Multiples | [q038.py](./solutions/q038_pandigital_multiples.py) | Python | 0.013465s |
+| 039 | Integer Right Triangles | [q039.py](./solutions/q039_integer_right_triangles.py) | Python | 0.010244s |
+
+
 
 ---
 
