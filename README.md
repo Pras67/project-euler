@@ -66,6 +66,8 @@ project-euler/
 | 039 | Integer Right Triangles | [q039.py](./solutions/q039_integer_right_triangles.py) | Python | 0.010244s |
 | 040 | Champernowne's Constant | [q040.py](./solutions/q040_champernowne_constant.py) | Python | 0.067487s |
 | 041 | Pandigital Prime | [q041.py](./solutions/q041_pandigital_prime.py) | Python | 0.000086s |
+| 042 | Coded Triangle Numbers | [q042.py](./solutions/q042_coded_triangle_numbers.py) | Python | 0.005755s |
+
 
 
 
