@@ -71,6 +71,7 @@ project-euler/
 | 044 | Pentagon Numbers | [q044.py](./solutions/q044_pentagon_numbers.py) | Python | 0.089792s |
 | 045 | Triangular, Pentagonal, and Hexagonal | [q045.py](./solutions/q045_triangular_pentagonal_and_hexagonal.py) | Python | 0.006988s |
 | 046 | Goldbach's Other Conjecture | [q046.py](./solutions/q046_goldbachs_other_conjecture.py) | Python | 0.001112s |
+| 047 | Distinct Primes Factors | [q047.py](./solutions/q047_distinct_primes_factors.py) | Python | 0.044932s |
 
 
 
