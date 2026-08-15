@@ -47,12 +47,9 @@ def solve(target_consecutive: int = 4, target_factors: int = 4) -> int:
 
     consecutive = 0
     for i in range(2, limit):
-        if factors_count[i] == target_factors:
-            consecutive += 1
-            if consecutive == target_consecutive:
-                return i - target_consecutive + 1
-        else:
-            consecutive = 0
+        consecutive = (consecutive + 1) if factors_count[i] == target_factors else 0
+        if consecutive == target_consecutive:
+            return i - target_consecutive + 1
 
     return -1
 
