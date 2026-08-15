@@ -68,8 +68,9 @@ project-euler/
 | 041 | Pandigital Prime | [q041.py](./solutions/q041_pandigital_prime.py) | Python | 0.000086s |
 | 042 | Coded Triangle Numbers | [q042.py](./solutions/q042_coded_triangle_numbers.py) | Python | 0.005755s |
 | 043 | Sub-string Divisibility | [q043.py](./solutions/q043_substring_divisibility.py) | Python | 0.043013s |
-| 044 | Pentagon Numbers | [q044.py](./solutions/q044_pentagon_numbers.py) | Python | 0.099332s |
-| 045 | Triangular, Pentagonal, and Hexagonal | [q045.py](./solutions/q045_triangular_pentagonal_and_hexagonal.py) | Python | 0.009031s |
+| 044 | Pentagon Numbers | [q044.py](./solutions/q044_pentagon_numbers.py) | Python | 0.089792s |
+| 045 | Triangular, Pentagonal, and Hexagonal | [q045.py](./solutions/q045_triangular_pentagonal_and_hexagonal.py) | Python | 0.006988s |
+| 046 | Goldbach's Other Conjecture | [q046.py](./solutions/q046_goldbachs_other_conjecture.py) | Python | 0.001112s |
 
 
 
