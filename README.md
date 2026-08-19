@@ -73,6 +73,7 @@ project-euler/
 | 046 | Goldbach's Other Conjecture | [q046.py](./solutions/q046_goldbachs_other_conjecture.py) | Python | 0.001112s |
 | 047 | Distinct Primes Factors | [q047.py](./solutions/q047_distinct_primes_factors.py) | Python | 0.044932s |
 | 048 | Self Powers | [q048.py](./solutions/q048_self_powers.py) | Python | 0.015562s |
+| 049 | Prime Permutations | [q049.py](./solutions/q049_prime_permutations.py) | Python | 0.001100s |
 
 
 
