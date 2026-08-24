@@ -75,9 +75,7 @@ project-euler/
 | 048 | Self Powers | [q048.py](./solutions/q048_self_powers.py) | Python | 0.015562s |
 | 049 | Prime Permutations | [q049.py](./solutions/q049_prime_permutations.py) | Python | 0.001100s |
 | 050 | Consecutive Prime Sum | [q050.py](./solutions/q050_consecutive_prime_sum.py) | Python | 0.060833s |
-
-
-
+| 051 | Prime Digit Replacements | [q051.py](./solutions/q051_prime_digit_replacements.py) | Python | 0.105000s |
 
 
 
