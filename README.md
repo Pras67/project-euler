@@ -80,6 +80,7 @@ project-euler/
 | 051 | Prime Digit Replacements | [q051.py](./solutions/q51-q100/q051_prime_digit_replacements.py) | Python | 0.105000s |
 | 052 | Permuted Multiples | [q052.py](./solutions/q51-q100/q052_permuted_multiples.py) | Python | 0.020815s |
 | 053 | Combinatoric Selections | [q053.py](./solutions/q51-q100/q053_combinatoric_selections.py) | Python | 0.000407s |
+| 054 | Poker Hands | [q054.py](./solutions/q51-q100/q054_poker_hands.py) | Python | 0.007800s |
 
 
 
