@@ -78,6 +78,7 @@ project-euler/
 | 049 | Prime Permutations | [q049.py](./solutions/q1-q50/q049_prime_permutations.py) | Python | 0.001100s |
 | 050 | Consecutive Prime Sum | [q050.py](./solutions/q1-q50/q050_consecutive_prime_sum.py) | Python | 0.060833s |
 | 051 | Prime Digit Replacements | [q051.py](./solutions/q51-q100/q051_prime_digit_replacements.py) | Python | 0.105000s |
+| 052 | Permuted Multiples | [q052.py](./solutions/q51-q100/q052_permuted_multiples.py) | Python | 0.020815s |
 
 
 
